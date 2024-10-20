@@ -12,7 +12,7 @@ int main()
    int c = 12, d = 34;
    printf("%d, %d\n", c, d);
 
-   return 0;
+   return 1;
 }
 
 // vim: set expandtab ts=4 sw=3 sts=3 tw=80 :
